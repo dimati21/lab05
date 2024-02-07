@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="infText">Text</string>
+    <string name="OPENbutt">OPEN DIALOG</string>
+    <string name="EXITbutt">EXIT APP</string>
+    <string name="TXTinput" />
+    <string name="TXTinputSecond" />
+    <string name="btnOK">OK</string>
+    <string name="btnCANCEL">CANCEL</string>
+    <string name="checkR">Check</string>
+    <string name="CheckL">Check</string>
+    <string name="SwitchR">Switch</string>
+    <string name="SwitchL">Switch</string>
+</resources>
